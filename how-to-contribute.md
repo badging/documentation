@@ -1,6 +1,19 @@
 # How to contribute
 
+### Connect
+
+You can connect us with the following means:
+
+* Join us in the [Slack channel](https://chaoss-workspace.slack.com/join/shared_invite/zt-dqeab4ab-4XrH51rc4y_WXjN~uI~6rA#/)
+* Attend one of our [CHAOSS Badging meeting](https://calendar.google.com/calendar/b/3?cid=Y2hhb3NzLmJhZGdpbmdAZ21haWwuY29t)
+* Discuss on the [CHAOSS D&I mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss-diversity-inclusion)
+* Or open an issue under our [GitHub Badging Organization](https://github.com/badging)
+
 Firstly, we appreciate it so much if you have any interest in D&I badging program and want to make contributions. All kinds of contributions are warmly welcomed, and this guide provides several angles for you to get started. You can: 
+
+### Participate as a reviewer
+
+If you want to be part of the reviewer’s team, please see [“Apply to review”](https://chaoss-project.gitbook.io/badging/reviewing/apply-to-review). Sign up as a reviewer and you can get in touch with different events and projects, measure how Diversity and Inclusion they are. When doing the reviewing job, please make sure you have read the reviewer’s guidance and understand our [D&I badging conflict of policy.](https://chaoss-project.gitbook.io/badging/reviewing/d-and-i-badging-conflict-of-interest-policy)
 
 ### Contribute to the workflow
 
@@ -22,21 +35,5 @@ There are two things you can help with the documentation, you can either **rewor
 * If you want to reword this documentation,  there is a synchronized [documentation repository](https://github.com/badging/documentation-unavailable) on GitHub, please open a PR to make revisions. Revises for more clearness about this documentation are precious contributions for us.
 * If you are a language speaker\(except English\) of one of the languages this documentation is using, it is appreciated to help us with checking the correctness and sentence fluency of that language version of the documentation. PR is recommended to make revisions.
 
-### Participate as an applicant or reviewer
-
-If you are \(one of\) an organizer of a wonderful event and want to apply for a D&I badge, please see [“Applying for a badge”](https://chaoss-project.gitbook.io/badging/applying-for-a-badge)
-
-If you want to be part of the reviewer’s team, please see [“Apply to review”](https://chaoss-project.gitbook.io/badging/reviewing/apply-to-review). Sign up as a reviewer and you can get in touch with different events and projects, measure how Diversity and Inclusion they are. When doing the reviewing job, please make sure you have read the reviewer’s guidance and understand our [D&I badging conflict of policy.](https://chaoss-project.gitbook.io/badging/reviewing/d-and-i-badging-conflict-of-interest-policy)
-
-### Connect
-
-For deeper involvement, you can:
-
-* Join us in the [Slack channel](https://chaoss-workspace.slack.com/join/shared_invite/zt-dqeab4ab-4XrH51rc4y_WXjN~uI~6rA#/)
-* Attend one of our [CHAOSS Badging meeting](https://calendar.google.com/calendar/b/3?cid=Y2hhb3NzLmJhZGdpbmdAZ21haWwuY29t)
-* Discuss on the [CHAOSS D&I mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss-diversity-inclusion)
-* Or open an issue under our [GitHub Badging Organization](https://github.com/badging)
-
-Don’t hesitate to hit us by any of the means above when confusion and thoughts about this project came up,  your suggestions are tremendously valuable for us.   
-
+Please don’t hesitate to hit us by any of the means listed on top of this page when confusion and thoughts about this project came up,  your suggestions are tremendously valuable for us. 
 
