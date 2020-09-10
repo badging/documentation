@@ -6,7 +6,7 @@ Once the PR is merged, you will officially become a member of the reviewer's tea
 
 ## The Reviewer PR Template
 
-When submitting the PR, an PR template will be generated for you to fill out.
+When submitting the PR, a PR template will be generated for you to fill out.
 
 TBD. \(Illustrate the PR template, explain each question and how they can answer them\)
 
