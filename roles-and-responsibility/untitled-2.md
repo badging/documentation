@@ -17,3 +17,5 @@ Things reviewers won't be able to do:
 
 * Edit an applicant's comment.
 
+## FAQ
+

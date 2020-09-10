@@ -23,6 +23,10 @@ Moderators are responsible for ensuring that reviewers and applicants understand
 * Generate a badge when the reviewers have filed out the checklist and the applicants have implemented all feedback.
 * Provide advice and understanding where applicants and reviewers are having trouble.
 
+## FAQ
+
+
+
 ## References
 
 * [https://haacked.com/archive/2019/06/03/suggested-changes/](https://haacked.com/archive/2019/06/03/suggested-changes/)

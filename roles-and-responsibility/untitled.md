@@ -16,3 +16,5 @@ Things maintainers would't be expected to do:
 
 * Edit the Application, Review Checklist and comments directly.
 
+## FAQ
+

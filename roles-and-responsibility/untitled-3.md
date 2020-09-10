@@ -21,3 +21,5 @@ Things applicants will not be able to do:
 
 * Edit the Review Checklist.
 
+## FAQ
+

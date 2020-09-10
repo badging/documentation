@@ -2,6 +2,14 @@
 
 ## Roles
 
+Applicants
+
+Reviewers
+
+Moderators
+
+Maintainers
+
 
 
 ### Permission table
