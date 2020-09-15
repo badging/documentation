@@ -83,6 +83,7 @@ The CHAOSS Badging Project is now in the first release version. We constantly re
 
 * [Ore-Aruwaji Oloruntola](https://github.com/thecraftman)
 * [Aastha Bist](https://github.com/bistaastha)
+* [Xiaoya Xia](https://github.com/xiaoya-Esther)
 
 
 
