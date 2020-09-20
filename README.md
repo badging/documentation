@@ -68,7 +68,7 @@ In order to get familiar with what is expected of reviewers, review the followin
 
 **We are currently recruiting reviewers for event submissions!**
 
-To become a reviewer, submit a Pull Request under the event-diversity-and-inclusion repository, add your GitHub handle in the reviewer.md file, this process will be accompanied by a PR template with some questions that we would like to know about you.
+To become a reviewer, submit a Pull Request under the event-diversity-and-inclusion repository, add your GitHub handle in the `reviewer.md` file, this process will be accompanied by a PR template with some questions that we would like to know about you.
 
 ## Work to Date
 
