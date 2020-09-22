@@ -26,39 +26,44 @@ The In-Person Event related D&I metrics are:
 * Diversity Access Tickets
 * Family Friendliness
 
-The following will illustrate how you should fill the form with these metrics. Check whether you have achieved the metric in your event and explain how you did it.
+If your event commits to one of the following metrics, please tick the checkbox first then fill the subsequent blanks under each question. We also provide **criteria** under each metric in the form for you as references of what the reviewer will be considering when reviewing the submission. 
 
 ### Speaker Demographics
 
-**Measuring demographics** - The Event has a process for measuring speaker demographics.  
-**Displaying demographics** - The Event displays speaker demographics.
+_How well does the speaker lineup for the event represent a diverse set of demographics?_
+
+* **Detail the process for measuring Attendee Demographics**. 
+* **Provide the link for the page related to Attendee Demographics if available.** 
 
 ### Attendee Demographics
 
-**Measuring Demographics** - The Event has a process for measuring Attendee demographics.  
-**Displaying demographics** - The Event displays attendee demographics.  
-**Attendee Inclusivity** - The Event requests feedback from attendees regarding Diversity & Inclusion.
+_How diverse and inclusive are the attendees?_
+
+* **Detail the process for measuring Attendee Demographics.**
+* **Provide the link for the page related to Attendee Demographics if available.**
 
 ### Code of Conduct at Event
 
-**Findability** - It is possible to find the Code of Conduct on the Event website.  
-**Clarity** - Event Code of Conduct provides a definition of expected behaviour.  
-**Reporting venue** - The event has a venue for reporting violations of the CoC at the event website.  
-**Support at Event** - The Event Code of Conduct provided information about possible methods to provide support to victims of inappropriate behavior.  
-**Enforcement** - The participants in the Event are required to accept the Code of Conduct.
+_How does the Code of Conduct for events support diversity and inclusion?_
+
+* **Is the code of conduct posted at Event venue?** You can answer simply Yes or No. But more details are suggested.
+* **Provide the link for the Event Code of Conduct.** It's essential that you provide the link because CoC\(Code of Conduct\) is an initial requirement for D&I badge application. Without the link, reviewers may determine your event as not-passing.
 
 ### Diversity Access Tickets
 
-**Availability** - The event provides one or more Diversity Access Tickets.  
-**Ticket allocation** - The Event has a process for allocating diversity access tickets.  
-**Findability** - The information about Diversity Access Tickets is public.
+_How are Diversity Access Tickets used to support diversity and inclusion for an event?_
+
+* **How many different types of diversity access tickets are available for the event?**
+* **What are the criteria for qualifying for a diversity access ticket?**
+* **Provide a link to the page containing information about Diversity Access Tickets.**
 
 ### Family Friendliness
 
-**Availability** - The Event provides one or more services/facilities for families.  
-**Findability** - The information about the family friendly services provided at the Event is easy to find on the website.
+_How does enabling families to attend together support diversity and inclusion of the event?_
 
-
+* **Does the Event provide childcare facilities for its attendees and speakers?** 
+* **What are the other ways that a family-friendly environment is being created in the Event?**
+* **Provide relevant links related to family friendliness at the Event.**
 
 
 
