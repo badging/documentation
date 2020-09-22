@@ -6,7 +6,7 @@ You can connect us by the following means:
 
 * Join us in the [Slack channel](https://chaoss-workspace.slack.com/join/shared_invite/zt-dqeab4ab-4XrH51rc4y_WXjN~uI~6rA#/)
 * Discuss on the [CHAOSS D&I mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss-diversity-inclusion)
-* Or open an issue under our [GitHub Badging Organization](https://github.com/badging)
+* Or open an issue under the [badging/diversity-and-inclusion repository.](https://github.com/badging/diversity-and-inclusion) 
 
 Please don’t hesitate to hit us by any of the means listed above when confusion and thoughts about this project came up,  your suggestions are tremendously valuable for us. 
 
