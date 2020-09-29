@@ -4,21 +4,21 @@ description: Describe the In-Person Event Badge Submission Form
 
 # Apply For In-Person Event
 
-The D&I badging application is based on submitting a form to provide information and measurements on how your event achieve diversity and inclusion practices, almost all initial judgments from reviewers are according to the form, so please do your best with it, make sure to fill out all the fields.
+The D&I badging application is submitted through a web form to provide information and measurements on how an event achieves diversity and inclusion practices. All initial judgments from reviewers are made according to the form, so please do your best with it, make sure to fill out all the fields.
 
 ## In-Person Event Badge Submission Form
 
 ## Basic Information
 
 * **Event Name:** Use the most commonly mentioned and well-known name of the event.
-* **Link to the Event Website:** The link should be valid, publicly available on a website and show the event information. It's preferable to provide the home-page link.
-* **Provide verification that you are an event organizer:** Only the organizer is eligible to apply the badge on behalf of event participants. Please provide substantial proof to show you are the organizer of the event you are applying for, e.g. a link where your name displayed as an organizer on the event website.
+* **Link to the Event Website:** The link should be valid, publicly available on a website, and show the event information. We recommend providing the home-page link.
+* **Provide verification that you are an event organizer:** Only the organizer is eligible to apply the badge on behalf of event participants. Please provide substantial proof to show you are the organizer of the event you are applying for. A link with your name displayed as an organizer on the event website is ideal.
 
 ## Metric-related Information
 
 This section requires you to provide **Diversity & Inclusion metrics** related information of your event. 
 
-The In-Person Event related D&I metrics are:
+The In-Person Event D&I metrics are:
 
 * Speaker Demographics
 * Attendee Demographics
@@ -26,7 +26,7 @@ The In-Person Event related D&I metrics are:
 * Diversity Access Tickets
 * Family Friendliness
 
-If your event commits to one of the following metrics, please tick the checkbox first then fill the subsequent blanks under each question. We also provide **criteria** under each metric in the form for you as references of what the reviewer will be considering when reviewing the submission. 
+If your event commits to one of the following metrics, please tick the checkbox, then fill the subsequent boxes under each question. We also provide **criteria** under each metric in the form for you as references of what the reviewer will be considering when reviewing the submission. 
 
 ### Speaker Demographics
 
