@@ -54,11 +54,11 @@ You will see on the website that there are two submission choices:
 
 We make one distinction between virtual events and in-person events. The Virtual Event does not have the ability to measure the [Family Friendliness](https://chaoss.community/metric-family-friendliness/) metric because this is not currently a concern for virtual events.
 
-![](../.gitbook/assets/image%20%286%29.png)
-
 **The Submission Workflow**
 
 Please fill out the web form with the kind of event you have chosen to your best ability, provide as much information as you want, and click "Submit".
+
+![](../.gitbook/assets/1.png)
 
 You will be redirected to GitHub,  and an Issue will be generated under the`event-diversity-and-inclusion`badging repository with the information you provided on the web form. **You must use your GitHub account to finalize the issue on their Website by clicking "Create New Issue", or your submission will be invalid.**
 
