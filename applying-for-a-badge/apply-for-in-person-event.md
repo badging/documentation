@@ -16,7 +16,7 @@ The D&I badging application is submitted through a web form to provide informati
 
 ## Metric-related Information
 
-This section requires you to provide **Diversity & Inclusion metrics** related information of your event. 
+This section requires you to provide [**Diversity & Inclusion metrics**](https://github.com/chaoss/wg-diversity-inclusion/) related information of your event. 
 
 The In-Person Event D&I metrics are:
 
@@ -30,40 +30,59 @@ If your event commits to one of the following metrics, please tick the checkbox,
 
 ### Speaker Demographics
 
-_How well does the speaker lineup for the event represent a diverse set of demographics?_
+_How well does the speaker lineup for the event represent a diverse set of_ [_demographics_](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data)_?_ ****
 
-* **Detail the process for measuring Attendee Demographics**. 
-* **Provide the link for the page related to Attendee Demographics if available.** 
+**For dimensions of Demographics, please see** [**here.**](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data)\*\*\*\*
+
+* **Provide the link for the page related to Speaker Demographics if available.** 
+* **Do speakers from diverse** [**backgrounds**](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data#dimensions-of-demographics)**? If yes, describe.**
+* **Are speakers diverse when grouped by keynotes, sessions, and tracks? If yes, describe.**
+* **What are the measurements to improve speaker demographics?**
 
 ### Attendee Demographics
 
 _How diverse and inclusive are the attendees?_
 
-* **Detail the process for measuring Attendee Demographics.**
 * **Provide the link for the page related to Attendee Demographics if available.**
+* **Does the attendee from diverse** [**background?** ](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data#dimensions-of-demographics)**If yes, describe.**
+* **Are attendees diverse when grouped by keynotes, sessions, and tracks? If yes, describe.**
+* **What are the measurements to improve attendee demographics?**
 
 ### Code of Conduct at Event
 
+{% hint style="warning" %}
+It's essential that you provide the link of CoC\(Code of Conduct\) because this is an initial requirement for D&I badge application. Without the link, reviewers may determine your event as not-passing.
+{% endhint %}
+
 _How does the Code of Conduct for events support diversity and inclusion?_
 
-* **Is the code of conduct posted at Event venue?** You can answer simply Yes or No. But more details are suggested.
-* **Provide the link for the Event Code of Conduct.** It's essential that you provide the link because CoC\(Code of Conduct\) is an initial requirement for D&I badge application. Without the link, reviewers may determine your event as not-passing.
+* **Provide the link for the Event Code of Conduct.** 
+* **Is the code of conduct posted at the event venue?** 
+* **Is the code of conduct has a clear avenue for reporting violations at the event? If yes, describe.**
+* **Is the code of conduct/event website provides information about possible ways to provide support victims of inappropriate behaviour, eventually links to external bodies? If yes, describe.**
 
 ### Diversity Access Tickets
 
 _How are Diversity Access Tickets used to support diversity and inclusion for an event?_
 
-* **How many different types of diversity access tickets are available for the event?**
+* **Provide the link for the page containing Diversity Access Tickets information.**
+* **How many \(different\) diversity access tickets are available, and how are they allocated?**
 * **What are the criteria for qualifying for a diversity access ticket?**
-* **Provide a link to the page containing information about Diversity Access Tickets.**
+* **What is the price difference between regular and diversity access tickets?**
+* **Are numbers from previous conferences displayed on website about how many diversity access tickets were used?**
+* **Are regular attendees encouraged to sponsor diversity access tickets?**
+* **If so, are sponsors of diversity access tickets named?**
 
 ### Family Friendliness
 
 _How does enabling families to attend together support diversity and inclusion of the event?_
 
-* **Does the Event provide childcare facilities for its attendees and speakers?** 
+* **Provide relevant links related to family friendliness at the Event if availble.**
+* **What services does the conference have for attendees who have children to take care of?**
+* **Does the event have a mother’s room? If yes, describe.**
+* **Does the event offer child care during the event? If yes, describe.**
+* **Do you have special sessions for children? If yes, describe.**
 * **What are the other ways that a family-friendly environment is being created in the Event?**
-* **Provide relevant links related to family friendliness at the Event.**
 
 
 
