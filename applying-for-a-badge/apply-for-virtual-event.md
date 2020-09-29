@@ -69,7 +69,7 @@ _How are Diversity Access Tickets used to support diversity and inclusion for an
 * **Are regular attendees encouraged to sponsor diversity access tickets?**
 * **If so, are sponsors of diversity access tickets named?**
 
-### Schedual Diversity
+### Schedule Diversity
 
 {% hint style="info" %}
 For virtual events, there are some other D&I concerns which are not defined by CHAOSS yet.
