@@ -4,6 +4,8 @@ To sign up as a reviewer,  you should edit the [reviewer.md ](https://github.com
 
 Once the PR is merged, you will officially become a member of the reviewer's team, the badging bot will assign you in the issue when new applications are submitted.
 
+The reviewer submission form
+
 ## The Reviewer PR Template
 
 When submitting the PR, a PR template will be generated for you to fill out.
