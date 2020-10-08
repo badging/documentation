@@ -2,7 +2,7 @@
 
 Firstly, thank you so much for willing to review for the D&I Badging Project, we are delighted for your help. 
 
-\(to be elaborated\)
+
 
 The reviewer form: [https://forms.gle/hNnqMTBHDkzDJns67](https://forms.gle/hNnqMTBHDkzDJns67)
 

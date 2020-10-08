@@ -2,6 +2,8 @@
 
 We make one distinction between virtual events and in-person events. The Virtual Event does not have the ability to measure the [Family Friendliness](https://chaoss.community/metric-family-friendliness/) metric because this is not currently a concern for virtual events.
 
+💡 This page will help you with how to fill out the form, and provide perspectives on improving your event referring to the submission form.
+
 ## In-Person Event Badge Submission Form
 
 ## Basic Information
@@ -20,29 +22,25 @@ The Virtual Event D&I metrics are:
 * Attendee Demographics
 * Code of Conduct at Event
 * Diversity Access Tickets
-* Schedual Diversity
 
 If your event commits to one of the following metrics, please tick the checkbox, then fill the subsequent boxes under each question. We also provide **criteria** under each metric in the form for you as references of what the reviewer will be considering when reviewing the submission. 
+
+If your event meets some of the criteria, please provide related details and proves. If not, those are the perspectives where your event can improve. 😉 
 
 ### Speaker Demographics
 
 _How well does the speaker lineup for the event represent a diverse set of_ [_demographics_](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data)_?_ ****
 
-**For dimensions of Demographics, please see** [**here.**](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data)\*\*\*\*
-
-* **Provide the link for the page related to Speaker Demographics if available.** 
-* **Do speakers from diverse** [**backgrounds**](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data#dimensions-of-demographics)**? If yes, describe.**
-* **Are speakers diverse when grouped by keynotes, sessions, and tracks? If yes, describe.**
-* **What are the measurements to improve speaker demographics?**
+* **Measuring Demographics.** Does your event measure speaker demographics? 
+* **Displaying demographics.** Does the speaker demographics publicly displayed on your event website?
 
 ### Attendee Demographics
 
 _How diverse and inclusive are the attendees?_
 
-* **Provide the link for the page related to Attendee Demographics if available.**
-* **Does the attendee from diverse** [**background?** ](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data#dimensions-of-demographics)**If yes, describe.**
-* **Are attendees diverse when grouped by keynotes, sessions, and tracks? If yes, describe.**
-* **What are the measurements to improve attendee demographics?**
+* **Measuring Demographics.** Does your event measure attendee demographics? 
+* **Displaying demographics.** Does the attendee demographics publicly displayed on your event website?
+* **Attendee Inclusivity.** You can request feedback from attendees about how they feel about the inclusiveness of this event, then take measures to encourage more attendees which are from different backgrounds.
 
 ### Code of Conduct at Event
 
@@ -52,30 +50,20 @@ It's essential that you provide the link of CoC\(Code of Conduct\) because this 
 
 _How does the Code of Conduct for events support diversity and inclusion?_
 
-* **Provide the link for the Event Code of Conduct.** 
-* **Is the code of conduct posted at the event website?** 
-* **Is the code of conduct has a clear avenue for reporting violations at the event? If yes, describe.**
-* **Is the code of conduct/event website provides information about possible ways to provide support victims of inappropriate behaviour, eventually links to external bodies? If yes, describe.**
+* **Findability.** The Code of Conduct should be discoverable on the website.
+* **Enforcement.** You can require participants to accept the Code of Conduct before completing registration.
+
+In the Code of Conduct:
+
+* **Clarity.** Does the Event Code of Conduct provide a definition of expected behaviour?
+* **Reporting venue.** Does it have a clear avenue for reporting violations at the event?
+* **Support at Event.** Does it describe information about possible ways to provide support yo victims of inappropriate behavior, eventually links to external bodies? 
 
 ### Diversity Access Tickets
 
 _How are Diversity Access Tickets used to support diversity and inclusion for an event?_
 
-* **Provide the link for the page containing Diversity Access Tickets information.**
-* **How many \(different\) diversity access tickets are available, and how are they allocated?**
-* **What are the criteria for qualifying for a diversity access ticket?**
-* **What is the price difference between regular and diversity access tickets?**
-* **Are numbers from previous conferences displayed on website about how many diversity access tickets were used?**
-* **Are regular attendees encouraged to sponsor diversity access tickets?**
-* **If so, are sponsors of diversity access tickets named?**
-
-### Schedule Diversity
-
-{% hint style="info" %}
-For virtual events, there are some other D&I concerns which are not defined by CHAOSS yet.
-{% endhint %}
-
-* **Does the event support divsersity scheduals that are suitable for all timezones?**
-
-References: [https://apachecon.com/acah2020/tracks/](https://apachecon.com/acah2020/tracks/)
+* **Availability.** How many \(different\) diversity access tickets are available?
+* **Ticket allocation.** How are those diversity access tickets allocated?
+* **Findability.** Does the information about diversity access tickets posted on your event website?
 
