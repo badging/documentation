@@ -1,18 +1,35 @@
 # Apply to review
 
-To sign up as a reviewer, The reviewer form: [https://forms.gle/hNnqMTBHDkzDJns67](https://forms.gle/hNnqMTBHDkzDJns67)
+This page contains information on how to become a reviewer of the D&I badging program. To review submissions for D&I badging, you need to sign up as a reviewer first. 
 
- you should edit the [reviewer.md ](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/reviewers.md)file under the event-diversity-and-inclusion repository, add your GitHub handle in the reviewer list \(please take care to not modify other reviewer's information in the list\), and submit the PR. 
+### Fill out the [Reviewer Form](https://forms.gle/hNnqMTBHDkzDJns67)
 
-Once the PR is merged, you will officially become a member of the reviewer's team, the badging bot will assign you in the issue when new applications are submitted.
+The reviewer form requests the following personal information:
 
-The reviewer submission form
+* Your Name
+* Your GitHub Handle
+* Your Email Address
+* Your Organization\(optional\)
 
-## The Reviewer PR Template
+Below are some questions that we would like to know about you:
 
-When submitting the PR, a PR template will be generated for you to fill out.
+* Who you are and why you're interested in the CHAOSS D&I Badging Program.
+* Your history with Diversity & Inclusion in Open Source
 
-TBD. \(Illustrate the PR template, explain each question and how they can answer them\)
+There are also commitments and aggrements you need to know:
+
+* Is it okay if we include your name on our website as CHAOSS D&I Badging Program Reviewer?
+* We request you to identify and act upon any conflicts of interest.
+
+Once you submit the form, a project maintainer will contact you via email
+
+
+
+### Submit a PR to sign up\(deprecated\)
+
+You can also add your GitHub handle in the [reviewer.md ](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/reviewers.md)file under the event-diversity-and-inclusion repository, and submit the PR. 
+
+This process will be removed in the next release, so we suggest you sign up us. ng the first method.
 
 
 

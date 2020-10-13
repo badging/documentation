@@ -6,7 +6,7 @@ description: Describe the In-Person Event Badge Submission Form
 
 The D&I badging application is submitted through a web form to provide information and measurements on how an event achieves diversity and inclusion practices. All initial judgments from reviewers are made according to the form, so please do your best with it, make sure to fill out all the fields.
 
-💡 This page will help you with how to fill out the form, and provide perspectives on improving your event referring to the submission form.
+💡 This page will help you fill out the form and provide perspectives on improving your event referring to the submission form.
 
 ## In-Person Event Badge Submission Form
 
@@ -15,6 +15,19 @@ The D&I badging application is submitted through a web form to provide informati
 * **Event Name:** Use the most commonly mentioned and well-known name of the event.
 * **Link to the Event Website:** The link should be valid, publicly available on a website, and show the event information. We recommend providing the home-page link.
 * **Provide verification that you are an event organizer:** Only the organizer is eligible to apply the badge on behalf of event participants. Please provide substantial proof showing you are the organizer of the event you are applying for. A link with your name displayed as an organizer on the event website is ideal.
+
+## Initial Checks
+
+**Event status-related requirements**
+
+* The event must be about Open Source technologies and practices.
+* You should be an organizer of the Event you are applying for.
+
+**Metric related requirements**
+
+* The information about the event must be publicly available on a website.
+* Metrics information must be available for potential attendees and speakers.
+* The event must host a Code of Conduct on the website.
 
 ## Metric-related Information
 

@@ -1,16 +1,29 @@
 # Apply For Virtual Event
 
-We make one distinction between virtual events and in-person events. The Virtual Event does not have the ability to measure the [Family Friendliness](https://chaoss.community/metric-family-friendliness/) metric because this is not currently a concern for virtual events.
+We make one distinction between virtual events and in-person events. The Virtual Event does not support the [Family Friendliness](https://chaoss.community/metric-family-friendliness/) metric because this is not currently a concern for virtual events.
 
 💡 This page will help you with how to fill out the form, and provide perspectives on improving your event referring to the submission form.
 
-## In-Person Event Badge Submission Form
+## Virtual Event Badge Submission Form
 
 ## Basic Information
 
 * **Event Name:** Use the most commonly mentioned and well-known name of the event.
 * **Link to the Event Website:** The link should be valid, publicly available on a website, and show the event information. We recommend providing the home-page link.
 * **Provide verification that you are an event organizer:** Only the organizer is eligible to apply the badge on behalf of event participants. Please provide substantial proof to show you are the organizer of the event you are applying for. A link with your name displayed as an organizer on the event website is ideal.
+
+## Initial Checks
+
+**Event status-related requirements**
+
+* The event must be about Open Source technologies and practices.
+* You should be an organizer of the Event you are applying for.
+
+**Metric related requirements**
+
+* The information about the event must be publicly available on a website.
+* Metrics information must be available for potential attendees and speakers.
+* The event must host a Code of Conduct on the website.
 
 ## Metric-related Information
 
