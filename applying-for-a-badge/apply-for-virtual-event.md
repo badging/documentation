@@ -77,6 +77,6 @@ In the Code of Conduct:
 _How are Diversity Access Tickets used to support diversity and inclusion for an event?_
 
 * **Availability.** How many \(different\) diversity access tickets are available?
-* **Ticket allocation.** How are diversity access tickets allocated?
+* **Ticket allocation.** How are those diversity access tickets allocated?
 * **Findability.** Does the information about diversity access tickets posted on your event website?
 
