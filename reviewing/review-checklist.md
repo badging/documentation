@@ -9,7 +9,7 @@
 *  The Event Code of Conduct is publicly available.
 *  The applicant is the organizer of the event.
 
-💡 `Make sure all the initial checks are marked before proceeding with Metric based checks`
+💡 `ake sure all the initial checks are marked before proceeding with Metric based checks`
 
 ### Metric based checks
 
