@@ -1,44 +1,67 @@
+---
+description: >-
+  This page contains information about the Review Checklist and how a reviewer
+  could collect the information required for the Review Checklist criteria.
+---
+
 # Review Checklist
 
-## Event Review Checklist
+This page contains information about the Review Checklist and how a reviewer could collect the information required for the Review Checklist criteria.
 
-### Initial checks
+### **Purpose of Review Checklist**
 
-*  Event is about Open Source technolgies and systems.
-*  Event information is publicly available on a website.
-*  The Event Code of Conduct is publicly available.
-*  The applicant is the organizer of the event.
+The review checklist provides a guideline for the reviewers to verify the event's alignment with CHAOSS Diversity and Inclusion best practices.
 
-💡 `Make sure all the initial checks are marked before proceeding with Metric based checks`
+The event checklist for the CHAOSS Badging Project can be found [here](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/checklist.md).
 
-### Metric based checks
+### Working with the Review Checklist
 
-#### Code of Conduct at Event
+D&I Badging reviews are checklist-driven. A review checklist will be generated for each reviewer to work through when reviewing the submission. Reviewer tick the checkboxes which they think the event aligns with the criteria.  The review process completes when **the applicant is satisfied with the current badge status** and **will no longer provide more information**.
 
-*  **Clarity** - Event Code of Conduct has a clear definition of expected behaviour.
-*  **Reporting venue** - There is a clear venue for reporting violations of the CoC at the event website / event venue.
-*  **Support at Event** - The Event Code of Conduct OR event website provide information about possible ways to provide support to victims of inappropriate behavior.
-*  **Findability** - It is easy to find the Code of Conduct on the Event website.
-*  **Enforcement** - The participants in the Event are required to accept the Code of Conduct.
+Reviewers can always ask applicants for more information through an issue comment.
+
+#### **Initial Check**
+
+{% hint style="info" %}
+Make sure all the initial checks are marked before proceeding with Metric based checks. If the event is not qualified with all the initial checks, call the moderator team to end the review.
+{% endhint %}
+
+* **Event is about Open Source technologies and systems.** You can tell by observing the event website in combination with the applicant's description.
+* **Event information is publicly available on a website.** Observe the event website to see whether the event information is public.
+* **The Event Code of Conduct is publicly available.** Try to find the Event Code of Conduct in person on the event's website or other public places, if you have difficulty with that, you may need more consideration of this checkbox.
+* **The applicant is the organizer of the event.** Check the verification the applicant provides in the submission. 
 
 #### Speaker Demographics and Inclusivity
 
-*  **Measuring demographics** - The Event has a clear process for measuring speaker demographics.
-  * Ask applicant about the process if information is not openly available.
-*  **Inclusivity** - There is a diverse Reviewing panel for selecting Event Speakers.
+* Observe the event website
+* Measuring demographics: 
+* Displaying demographics:
 
 #### Attendee Demographics and inclusivity
 
-*  **Measuring Demographics** - The Event has a clear process for measuring Attendee demographics.
-  * Ask applicant about the process if information is not openly available.
+* **Measuring Demographics** 
+* **Displaying demographics** 
+* **Attendee Inclusivity** 
+
+#### Code of Conduct at Event
+
+
 
 #### Diversity Access tickets
 
-*  **Ticket allocation** - The Event has a clear process for allocating diversity access tickets.
-*  **Findability** - The information about Diversity Access Tickets is public and easy to find.
 
-#### Family Friendliness
 
-*  **Availability** - The Event claims to services/facilities for families.
-*  **Findability** - The information about the family friendly services provided at the Event is easy to find on the website
+####  Family Friendliness
+
+{% hint style="warning" %}
+The Review Checklist for Virtual Event won't have this metric.
+{% endhint %}
+
+
+
+
+
+
+
+
 

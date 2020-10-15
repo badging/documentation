@@ -8,7 +8,6 @@
 * [Reviewing](reviewing/README.md)
   * [Apply to review](reviewing/apply-to-review.md)
   * [Review Checklist](reviewing/review-checklist.md)
-  * [Review Criteria](reviewing/review-criteria.md)
   * [D&I Badging Conflict of Interest Policy](reviewing/d-and-i-badging-conflict-of-interest-policy.md)
 * [Roles and Responsibility](roles-and-responsibility/README.md)
   * [Applicants](roles-and-responsibility/untitled-3.md)

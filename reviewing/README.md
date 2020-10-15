@@ -1,52 +1,43 @@
 # Reviewing
 
-Firstly, thank you so much for willing to review for the D&I Badging Project, we are delighted for your help. 
+## Introduction
 
-
-
-The reviewer form: [https://forms.gle/hNnqMTBHDkzDJns67](https://forms.gle/hNnqMTBHDkzDJns67)
+Thank you so much for showing interest in D&I Badging Project and willing to serve as a reviewer, we are delighted for your help! This page tells you a bit about the participation as a reviewer and helps with some detailed principles you would need to know while reviewing.
 
 ## Reviewer Guide
 
-### Working with checklists
+A CHAOSS Badging application starts when an Applicant opens an issue on the [event](https://github.com/badging/event-diversity-and-inclusion) badging repository. They fill out a form to create a GitHub issue, which contains the information a reviewer looks at. Upon being assigned an issue, a checklist is generated in the form of a comment, which will contain the name of the reviewer. 
 
-A CHAOSS Badging application starts when an Applicant opens an issue on the [event](https://github.com/badging/event-diversity-and-inclusion) badging repository. They fill out a form to create a GitHub issue, which contains the information a reviewer looks at. Upon being assigned an issue, a checklist is generated in the form of a comment. This will contain the name of the reviewer.
+### Some Notices Concerned
 
-During a review, a Reviewer would analyse the information given by an Applicant using the Review Checklist. The checklist can be found [here](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/checklist.md).
+* You do need a GitHub account to review for D&I badging.
+* Once you become a reviewer of D&I badging\(see [apply to review](apply-to-review.md) on how to be a reviewer\), your GitHub handle will be added to the review list to assign issues.
+* Please make sure you don't miss the assigning notice, if a reviewer constantly gives no response to the issue for more than one month, D&I Badging moderator team will reassign a new reviewer for that issue.
+* You can read [CHAOSS D&I metrics](https://github.com/chaoss/wg-diversity-inclusion/), especially metrics under the Event Diversity focus area to get a further grasp before reviewing.
 
-### Guidelines
+### While You Are Reviewing
 
-For all submissions:
-
-* Make sure the Initial checks are met. These are the basic requirements which help to ensure that the application is at a bare minimum standard.
+* **Working with the Review Checklist.** 
+* During a review, a Reviewer would analyze the information given by an Applicant using the Review Checklist. The checklist can be found [here](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/checklist.md).
+* Make sure the Initial checks are met. These are the basic requirements that help to ensure the application is at a bare minimum standard.
 * Mark your observations according to the Review Checklist, and give feedback on how an application can be improved if certain checks are not met.
 * If you have feedback outside of the scope of what the review checklist asks for, create a new comment informing the applicant about that.
 
-For Events:
+### What are the things you need to review?
 
-* Currently, there are five metrics which can be applied for by an Event Badging applicant.
-* Event badges are assigned according to four Badge levels.
-* Event reviews go on until all the metrics the Applicant gave their statement for qualify all the given checks. For example, if an applicant gave their statement for adhering to Code of Conduct and Speaker Demographic metrics \(which form the first metric set\), their Badge status would be pending until the qualitative checks related to both these metrics are passed.
+The Event Submission is basically shown as the initial comment of an issue. Your judgments could base upon the following stuff:
 
+#### The Event Website
 
+A link to the event website is required from applicants. Reviewers should observe the Event website to verify everything is aligned with the submission answer.
 
-TBD. Some drafts:
+#### Detailed Description
 
-Briefly describe how the workflow goes for a reviewer, how he/she should 
+Each question should be filled, there should be sufficient description for you to understand how the metrics are fulfilled associated with the event. 
 
-* Briefly describe how the workflow goes for a reviewer\(be assigned by the badging-bot in issue\)
-* how to go through the submission
-* Read the CHAOSS D&I metrics that are event badging application related
-* Work with the reviewer checklist
-* The reviewer can ask for more information in the issue comment
-* Constantly give feedback
-* Non-response protocol
+#### Links Related to Each Metric
 
-{% hint style="info" %}
-If a reviewer constantly gives no feedback in the issue, moderators should assign a new reviewer, how?
-{% endhint %}
-
-## 
+Each link provided should be relevant and confirms the description within a metric.
 
 
 
