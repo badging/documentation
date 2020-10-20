@@ -8,7 +8,7 @@ You can connect us by the following means:
 * Discuss on the [CHAOSS D&I mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss-diversity-inclusion)
 * Or open an issue under the [badging/diversity-and-inclusion repository.](https://github.com/badging/diversity-and-inclusion) 
 
-Please don’t hesitate to contact us any of the means listed above when your thoughts about this project come up. Your suggestions are tremendously valuable for us. 
+Please don’t hesitate to contact us by any of the means listed above when your thoughts about this project come up. Your suggestions are tremendously valuable to us. 
 
 ### Thank You
 
@@ -42,7 +42,5 @@ We suggest adding text with the pull request explaining why the change should be
 We have two ways you can help with the documentation. You can either **adjust the documentation on GitHub** or **check the correctness of translated documentation.**
 
 * If you want to reword this documentation,  we have a synchronized [documentation repository](https://github.com/badging/documentation-unavailable) on GitHub. Please open a pull request here to make revisions. Revisions for clarity are precious contributions for us.
-* If you are a speaker of one of the languages this documentation is using \(except English\), it is appreciated to help us check the that version of the documentation. Please open a pull request here to make revisions. Foreign language support is also previous to us.
-
-Please don’t hesitate to contact us any of the means listed above when your thoughts about this project come up. Your suggestions are tremendously valuable for us. 
+* If you are a speaker of one of the languages this documentation is using \(except English\), it is appreciated to help us check that version of the documentation. Please open a pull request here to make revisions. Foreign language support is also previous to us.
 

@@ -1,10 +1,14 @@
-# Apply to review
+# Apply to Review
 
-This page contains information on how to become a reviewer of the D&I badging program. To review submissions for D&I badging, you need to sign up as a reviewer first. 
+This page contains information on how to become a reviewer of the D&I badging program. To review submissions for D&I badging, you need to sign up as a reviewer first. The best way to start is with our sign-up form!
 
 ### Fill out the Reviewer Form
 
-Please go to [The Reviewer Form](https://forms.gle/hNnqMTBHDkzDJns67) to sign up.
+Please go to the [Reviewer Application Form](https://docs.google.com/forms/d/e/1FAIpQLSd26I8Z5FbcaVMzwaoc2cYEglJakV0kD2q2xMjllIuACh1aGw/viewform) to sign up.
+
+{% hint style="warning" %}
+We no longer support Pull Requests as reviewer applications. We invite you now to sign up using the Reviewer Form.
+{% endhint %}
 
 The reviewer form requests the following personal information:
 
@@ -13,29 +17,19 @@ The reviewer form requests the following personal information:
 * **Your Email Address:** D&I Badging uses your email address to contact and communicate with you, and will not share or publish it on the website.
 * **Your Organization\(optional\):** You can choose not to share this information with us. D&I Badging asks for the organization to know the further background about you, and will not share or publish it on the website.
 
-Below are questions that we would like to know about you:
+Below are the most important questions:
 
 * **Who you are and why you're interested in the CHAOSS D&I Badging Program.** 
 * **Your history with Diversity & Inclusion in Open Source.**
 
-There are also commitments and agreements you need to know:
+We will also ask:
 
-* We will ask whether you would like to include your name on our website as CHAOSS D&I Badging Program Reviewer. If you agree with that, your name will show on the bottom of [D&I Badging Page](https://chaoss.community/diversity-and-inclusion-badging/).
-* We request you to identify and act upon any conflicts of interest. Please see [D&I Badging Conflict of Interest Policy](d-and-i-badging-conflict-of-interest-policy.md).
+* We want to know if you would like to include your name on our website as CHAOSS D&I Badging Program Reviewer. If you agree with that, your name will show on the bottom of [D&I Badging Page](https://chaoss.community/diversity-and-inclusion-badging/).
+* We also require you as a reviewer to identify and act upon any conflicts of interest. Please see [D&I Badging Conflict of Interest Policy](d-and-i-badging-conflict-of-interest-policy.md).
 
-Once you submit the form, D&I Badging team will contact you through email, setting up a meeting that helps with running over the process. The meeting is basically about what it be like to be a reviewer, what it means, and how to do it. 
+The D&I Badging team will be notified once you submit the form. The D&I Badging team will contact you through email to set up a meeting to explain the reviewing process. The meeting also includes our motivation and the role of the reviewer in more detail.
 
-After the meeting, your GitHub handle will be added to the [**reviewer.md** ](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/reviewers.md)list. There is a badging bot to assign reviewing tasks, don't forget to open email notifications for D&I badging repository in case you miss the assignment! 
-
-### Submit a PR to sign up\(deprecated\)
-
-The signup process previously using a PR template to sign up. We have moved it to the google form as the Reviewer Form mentioned above, for user-friendly concerns. 
-
-{% hint style="warning" %}
-You can still submit the PR for now, but we are planning to remove this process for the next release. So we suggest you to sign up using the Reviewer Form.
-{% endhint %}
-
-If you still wish to sign up this way, straightly add your GitHub handle to the [reviewer.md](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/reviewers.md) list, and submit the PR.
+After the meeting, your GitHub handle will be added to the list of [current reviewers](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/reviewers.md). There is a badging bot that assigns reviewing tasks; don't forget to open email notifications for D&I badging repository in case you miss the assignment! 
 
 
 

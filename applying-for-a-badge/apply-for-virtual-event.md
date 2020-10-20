@@ -1,4 +1,4 @@
-# Apply For Virtual Event
+# Virtual Event
 
 We make one distinction between virtual events and in-person events. The Virtual Event does not support the [Family Friendliness](https://chaoss.community/metric-family-friendliness/) metric because this is not currently a concern for virtual events.
 
@@ -70,7 +70,7 @@ In the Code of Conduct:
 
 * **Clarity.** Does the Event Code of Conduct provide a definition of expected behaviour?
 * **Reporting venue.** Does it have a clear avenue for reporting violations at the event?
-* **Support at Event.** Does it describe information about possible ways to provide support yo victims of inappropriate behavior, eventually links to external bodies? 
+* **Support at Event.** Does it describe information about possible ways to provide support to victims of inappropriate behavior, eventually links to external bodies? 
 
 ### Diversity Access Tickets
 

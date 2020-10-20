@@ -2,7 +2,7 @@
 description: Describe the In-Person Event Badge Submission Form
 ---
 
-# Apply For In-Person Event
+# In-Person Event
 
 The D&I badging application is submitted through a web form to provide information and measurements on how an event achieves diversity and inclusion practices. All initial judgments from reviewers are made according to the form, so please do your best with it, make sure to fill out all the fields.
 
@@ -75,7 +75,7 @@ In the Code of Conduct:
 
 * **Clarity.** Does the Event Code of Conduct provide a definition of expected behaviour?
 * **Reporting venue.** Does it have a clear avenue for reporting violations at the event?
-* **Support at Event.** Does it describe information about possible ways to provide support yo victims of inappropriate behavior, eventually links to external bodies? 
+* **Support at Event.** Does it describe information about possible ways to provide support to victims of inappropriate behavior, eventually links to external bodies? 
 
 ### Diversity Access Tickets
 
@@ -97,7 +97,7 @@ _How does enabling families to attend together support diversity and inclusion o
 
   It's also wonderful if your event has other ideas that are suitable and effective to promote family friendliness of the event.
 
-* **Findability.**  Is the information about the family friendly services easily found on your website?
+* **Findability.**  Is the information about the family-friendly services easily found on your website?
 
 
 

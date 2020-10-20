@@ -1,6 +1,6 @@
 # Applying for a badge
 
-## Apply D&I Badge for what?
+## The badge is for what? 
 
 {% hint style="info" %}
 We are planning to provide D&I badges for **technical events** and **open-source projects**. While currently, we only support D&I badge applications for **events.** Project applications will be covered in later versions.
@@ -16,9 +16,9 @@ We are planning to provide D&I badges for **technical events** and **open-source
 
 **Virtual Events** are online events where speakers and attendees interact via computers and meeting platforms.
 
-## Apply For Event Badge
+## Apply For an Event Badge
 
-If you are one of the organizers of an event that is focused on open source technologies and systems, we encourage you to apply. We expect that it will take an hour or two to prepare all the required information and complete the application. First, please check whether your event meets all the following initial requirements, then follow the submission instructions.
+If you are one of the organizers of an event that is focused on open source technologies and systems, we encourage you to apply. We expect that it will take an hour or two to prepare all the required information and complete the application. First, please check whether your event meets all the following submission requirements, then follow the submission instructions.
 
 ### Submission Guides
 
@@ -42,11 +42,11 @@ Please fill out the web form with the kind of event you have chosen to your best
 
 You will be redirected to GitHub with a pre-populated issue. This issue will be generated under the`event-diversity-and-inclusion`badging repository with the information you provided on the web form. **You must use your GitHub account to finalize the issue on their Website by clicking "Create New Issue", or your submission will be invalid.**
 
-Once the Issue is successfully created, two reviewers will then be assigned to review your issue. They will assess the event's D&I Practices using a [review checklist.](https://app.gitbook.com/@chaoss-project/s/badging/~/drafts/-MHfMz780wz3WnO_1TbA/reviewing/review-checklist)
+Once the Issue is successfully created, at least two reviewers will then be assigned to review your issue. They will assess the event's D&I Practices using a [review checklist.](https://app.gitbook.com/@chaoss-project/s/badging/~/drafts/-MHfMz780wz3WnO_1TbA/reviewing/review-checklist)
 
 **Communicate with reviewers and moderators**
 
-Please pay attention to the issue you submitted before you acquire the final D&I badge. Reviewers may leave suggestions in the issue to request more information. Applicants must maintain communication with reviewers during the review period.
+Please pay attention to the issue you submitted before you acquire the final badge. Reviewers may leave suggestions in the issue to request more information. Applicants must maintain communication with reviewers during the review period.
 
 At any time during the review process, the current Badge status can be checked by using the command`/result` in an issue comment. See [an example.](https://github.com/badging/event-diversity-and-inclusion/issues/45#issuecomment-674542479)
 
