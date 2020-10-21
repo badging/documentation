@@ -2,13 +2,22 @@
 
 * [Overview of the D&I Badging](README.md)
 * [How to contribute](how-to-contribute.md)
-* [Applying for a badge](applying-for-a-badge/README.md)
-  * [In-Person Event](applying-for-a-badge/apply-for-in-person-event.md)
-  * [Virtual Event](applying-for-a-badge/apply-for-virtual-event.md)
-* [Reviewing](reviewing/README.md)
-  * [Apply to Review](reviewing/apply-to-review.md)
-  * [The Review Process](reviewing/review-checklist.md)
-  * [D&I Badging Conflict of Interest Policy](reviewing/d-and-i-badging-conflict-of-interest-policy.md)
+
+## Applying
+
+* [Applying for a badge](applying/applying-for-a-badge.md)
+* [Apply for Virtual Event](applying/apply-for-virtual-event.md)
+* [Apply for In-Person Event](applying/apply-for-in-person-event.md)
+
+## Reviewing <a id="reviewing-1"></a>
+
+* [Reviewing](reviewing-1/reviewing.md)
+* [Apply to Review](reviewing-1/apply-to-review.md)
+* [The Review Process](reviewing-1/review-checklist.md)
+* [D&I Badging Conflict of Interest Policy](reviewing-1/d-and-i-badging-conflict-of-interest-policy.md)
+
+---
+
 * [Roles and Responsibility](roles-and-responsibility/README.md)
   * [Applicants](roles-and-responsibility/untitled-3.md)
   * [Reviewers](roles-and-responsibility/untitled-2.md)

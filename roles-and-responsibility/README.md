@@ -2,15 +2,25 @@
 
 ## Roles
 
-Applicants
+Four different kinds of roles exist in D&I Badging: applicants, reviewers, moderators, maintainers. 
 
-Reviewers
+{% tabs %}
+{% tab title="Applicants" %}
 
-Moderators
+{% endtab %}
 
-Maintainers
+{% tab title="Reviewers" %}
 
+{% endtab %}
 
+{% tab title="Moderators" %}
+
+{% endtab %}
+
+{% tab title="Maintainers" %}
+
+{% endtab %}
+{% endtabs %}
 
 ### Permission table
 

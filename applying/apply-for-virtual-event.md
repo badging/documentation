@@ -1,4 +1,4 @@
-# Virtual Event
+# Apply for Virtual Event
 
 We make one distinction between virtual events and in-person events. The Virtual Event does not support the [Family Friendliness](https://chaoss.community/metric-family-friendliness/) metric because this is not currently a concern for virtual events.
 
