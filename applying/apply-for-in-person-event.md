@@ -49,16 +49,16 @@ If your event meets some of the criteria, please provide related details and pro
 
 _How well does the speaker lineup for the event represent a diverse set of_ [_demographics_](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data)_?_ ****
 
-* **Measuring Demographics.** Does your event measure speaker demographics? 
-* **Displaying demographics.** Does the speaker demographics publicly displayed on your event website?
+* **Measuring Demographics:** Does your event measure speaker demographics? 
+* **Displaying demographics:** Does the speaker demographics publicly displayed on your event website?
 
 ### Attendee Demographics
 
 _How diverse and inclusive are the attendees?_
 
-* **Measuring Demographics.** Does your event measure attendee demographics? 
-* **Displaying demographics.** Does the attendee demographics publicly displayed on your event website?
-* **Attendee Inclusivity.** You can request feedback from attendees about how they feel about the inclusiveness of this event, then take measures to encourage more attendees which are from different backgrounds.
+* **Measuring Demographics:** Does your event measure attendee demographics? 
+* **Displaying demographics:** Does the attendee demographics publicly displayed on your event website?
+* **Attendee Inclusivity:** You can request feedback from attendees about how they feel about the inclusiveness of this event, then take measures to encourage more attendees which are from different backgrounds.
 
 ### Code of Conduct at Event
 
@@ -68,28 +68,28 @@ It's essential that you provide the link of CoC\(Code of Conduct\) because this 
 
 _How does the Code of Conduct for events support diversity and inclusion?_
 
-* **Findability.** The Code of Conduct should least be discoverable on the website, and better to post at the event venue where speakers and attendees will have an easy time to find.
-* **Enforcement.** You can require participants to accept the Code of Conduct before completing registration.
+* **Findability:** The Code of Conduct should least be discoverable on the website, and better to post at the event venue where speakers and attendees will have an easy time to find.
+* **Enforcement:** You can require participants to accept the Code of Conduct before completing registration.
 
 In the Code of Conduct:
 
-* **Clarity.** Does the Event Code of Conduct provide a definition of expected behaviour?
-* **Reporting venue.** Does it have a clear avenue for reporting violations at the event?
-* **Support at Event.** Does it describe information about possible ways to provide support to victims of inappropriate behavior, eventually links to external bodies? 
+* **Clarity:** Does the Event Code of Conduct provide a definition of expected behaviour?
+* **Reporting venue:** Does it have a clear avenue for reporting violations at the event?
+* **Support at Event:** Does it describe information about possible ways to provide support to victims of inappropriate behavior, eventually links to external bodies? 
 
 ### Diversity Access Tickets
 
 _How are Diversity Access Tickets used to support diversity and inclusion for an event?_
 
-* **Availability.** How many \(different\) diversity access tickets are available?
-* **Ticket allocation.** How are those diversity access tickets allocated?
-* **Findability.** Does the information about diversity access tickets posted on your event website or some other public venues?
+* **Availability:** How many \(different\) diversity access tickets are available?
+* **Ticket allocation:** How are those diversity access tickets allocated?
+* **Findability:** Does the information about diversity access tickets posted on your event website or some other public venues?
 
 ### Family Friendliness
 
 _How does enabling families to attend together support diversity and inclusion of the event?_
 
-* **Availability.** Servies or facilities can be provided for participants who bring families to the event, especially to those who have children to take care of. For examples, you can:
+* **Availability:** Servies or facilities can be provided for participants who bring families to the event, especially to those who have children to take care of. For examples, you can:
 
   * Provide a mother’s room,
   * Offer child care during the event,
@@ -97,7 +97,7 @@ _How does enabling families to attend together support diversity and inclusion o
 
   It's also wonderful if your event has other ideas that are suitable and effective to promote family friendliness of the event.
 
-* **Findability.**  Is the information about the family-friendly services easily found on your website?
+* **Findability:** Is the information about the family-friendly services easily found on your website?
 
 
 

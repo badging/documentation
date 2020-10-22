@@ -1,18 +1,14 @@
----
-description: >-
-  This page contains information about the Review Checklist and how a reviewer
-  could collect the information required for the Review Checklist criteria.
----
-
 # The Review Process
 
-This page contains information about the Review Checklist and how a reviewer could collect the information required for the Review Checklist criteria.
+This page contains information about going through the review process, especially about how a reviewer could work with the Review Checklist and collect the information required for the Review Checklist criteria.
 
 ### **Purpose of Review Checklist**
 
 The review checklist provides a guideline for the reviewers to verify the event's alignment with CHAOSS Diversity and Inclusion best practices.
 
-The event checklist for the CHAOSS Badging Project can be found [here](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/checklist.md).
+Apart from providing viewpoints while reviewing, the checklist also plays the function of generating the badge state by calculating how many checkboxes are marked in combination with all reviewers of one submission.
+
+The event review checklist for the CHAOSS Badging Project can be found [here](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/checklist.md).
 
 ### Working with the Review Checklist
 
@@ -35,22 +31,28 @@ Use the website provided in the application to everyone's advantage! Most of the
 
 #### Speaker Demographics and Inclusivity
 
-* **Measuring demographics**: Ensure that the website clearly the process by which they measure and use their demographic data.
+* **Measuring demographics**: Ensure that the website clearly the process by which they measure and use their demographic data of speakers.
 * **Displaying demographics**: This should only be checked if the event openly displays data regarding their speaker demographics. This could be in a PR statement, press release, or otherwise, but it must be reasonably easy to find.
 
 #### Attendee Demographics and inclusivity
 
-* **Measuring Demographics** 
-* **Displaying demographics** 
-* **Attendee Inclusivity** 
+* **Measuring Demographics**: Ensure that the website clearly the process by which they measure and use their demographic data of attendees.
+* **Displaying demographics**: This could be in a PR statement, press release, or otherwise, but it must be reasonably easy to find.
+* **Attendee Inclusivity**: This should only be checked when the event possesses explicit measures to promote attendee inclusivity. Generally, an event should at least requests feedback from attendees, ask the applicant if you need more information.
 
 #### Code of Conduct at Event
 
-
+*  **Findability:** Observe the event website to see whether the CoC is easy to find. 
+*  **Clarity:** Read the CoC, make sure in the CoC there are clear definitions of what kinds of behaviors should or should not be performed at the event.
+*  **Reporting venue:** Ensure that the event has a physical or online venue for all event participants to report violations of CoC, the information of reporting venue should be public on the event website or other places.
+*  **Support at Event:**  Read the CoC, make sure it contains information about possible methods to provide support to victims of inappropriate behavior.
+*  **Enforcement:** This should only be checked when there is a definite process exhibiting all participants the CoC and asking them to accept it.
 
 #### Diversity Access tickets
 
-
+*  **Availability:** Ensure that the event provides one or more Diversity Access Tickets. 
+*  **Ticket allocation:** Allocating different kinds of tickets may always be a process that operates internally, try to find out the process based on the description provided by the applicant and ask for more information if you need.
+*  **Findability:** The information on diversity access tickets is not necessarily posted on the event website, it can also be on a ticketing system or other places, but this should be at least public and findable.
 
 ####  Family Friendliness
 
@@ -58,7 +60,8 @@ Use the website provided in the application to everyone's advantage! Most of the
 The Review Checklist for Virtual Event won't have this metric.
 {% endhint %}
 
-
+* **Availability:** Ensure that the event provides one or more services/facilities for families.
+* **Findability:** Observe the event website to see whether information regards to family friendly services provided at the event is easy to find.
 
 
 

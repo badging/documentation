@@ -18,3 +18,5 @@ Things maintainers would't be expected to do:
 
 ## FAQ
 
+`Q` What kind of commitment is maintaining for Event Badging?
+

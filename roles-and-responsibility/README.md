@@ -2,7 +2,7 @@
 
 ## Roles
 
-Four different kinds of roles exist in D&I Badging: applicants, reviewers, moderators, maintainers. 
+Four different kinds of roles exist in D&I Badging: applicants, reviewers, moderators, maintainers. Click the following tab bar to see the definition of each role.
 
 {% tabs %}
 {% tab title="Applicants" %}
@@ -22,7 +22,7 @@ Four different kinds of roles exist in D&I Badging: applicants, reviewers, moder
 {% endtab %}
 {% endtabs %}
 
-### Permission table
+### Permission table on GitHub
 
 | Repository Permission | Applicant | Reviewer | Maintainer | Moderator |
 | :--- | :--- | :--- | :--- | :--- |
@@ -31,4 +31,8 @@ Four different kinds of roles exist in D&I Badging: applicants, reviewers, moder
 | Merge PR | N | N | Y | N |
 | Request reviews | N | N | N | Y |
 | Edit the opening PR comment | Y | N | N | N |
+
+{% hint style="success" %}
+In each subsection, we will elaborate on responsibilities and GitHub permission of different kinds of roles, and provide information about the frequently asked questions.
+{% endhint %}
 

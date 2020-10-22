@@ -23,3 +23,8 @@ Things applicants will not be able to do:
 
 ## FAQ
 
+`Q` What kind of commitment is the application process for an Event Badge?  
+`A` The initial form will likely take about 15 minutes to fill out. After submitting your application, you are required to communicate, at least a few times, to ensure that the information is accurate and confusion is resolved. You must also confirm that the badge your event receives is clear.
+
+`Q` We are looking forward to more questions!
+

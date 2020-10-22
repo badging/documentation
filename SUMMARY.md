@@ -6,15 +6,15 @@
 ## Applying
 
 * [Applying for a badge](applying/applying-for-a-badge.md)
-* [Apply for Virtual Event](applying/apply-for-virtual-event.md)
 * [Apply for In-Person Event](applying/apply-for-in-person-event.md)
+* [Apply for Virtual Event](applying/apply-for-virtual-event.md)
 
 ## Reviewing <a id="reviewing-1"></a>
 
 * [Reviewing](reviewing-1/reviewing.md)
 * [Apply to Review](reviewing-1/apply-to-review.md)
 * [The Review Process](reviewing-1/review-checklist.md)
-* [D&I Badging Conflict of Interest Policy](reviewing-1/d-and-i-badging-conflict-of-interest-policy.md)
+* [Conflict of Interest Policy](reviewing-1/d-and-i-badging-conflict-of-interest-policy.md)
 
 ---
 

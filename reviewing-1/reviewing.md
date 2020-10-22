@@ -35,6 +35,10 @@ The Event Submission is created as a GitHub issue. The reviewer's judgments are 
 
 * Each link provided should be relevant and confirm the description within a metric.
 
+## Statement
+
+Special thanks to [JOSS\(Journal of Open Source Software\)](https://joss.theoj.org/) for the D&I Badge peer-review process is inspired by them.
+
 
 
 
