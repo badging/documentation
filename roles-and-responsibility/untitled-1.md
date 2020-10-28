@@ -2,11 +2,13 @@
 
 ## Responsibilities
 
-This will be a role which will be belong to participants who would help in closing a Badging Application and declaring the final badge for an application.
+This will be a role that will belong to participants who would help in closing a Badging Application and declaring the final badge for an application.
 
 ## GitHub Permissions
 
-> Repository permission level: Maintain / Admin / Write
+{% hint style="info" %}
+Repository permission level: Maintain / Admin / Write
+{% endhint %}
 
 Things a moderator would be expected to do:
 
@@ -16,11 +18,11 @@ Things a moderator would be expected to do:
 
 ## Moderator guide
 
-Moderators are responsible for ensuring that reviewers and applicants understand the Badging workflow. This is done through issue comments, pull request comments, and other Badging discussions. The Moderators in the Badging organization are required to have a strong understanding of D&I practices within an open source organziation.
+Moderators are responsible for ensuring that reviewers and applicants understand the Badging workflow. This is done through issue comments, pull request comments, and other Badging discussions. The Moderators in the Badging organization are required to have a strong understanding of D&I practices within an open-source organization.
 
 ### Roles of the Moderator
 
-* Generate a badge when the reviewers have filed out the checklist and the applicants have implemented all feedback.
+* Generate a badge when the reviewers have filled out the checklist and the applicants have implemented all feedback.
 * Provide advice and understanding where applicants and reviewers are having trouble.
 
 ## FAQ

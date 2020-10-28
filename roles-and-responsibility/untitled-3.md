@@ -10,7 +10,9 @@ Applicants would be the primary stakeholders for any CHAOSS Badging review. They
 
 ## GitHub Permissions
 
-> Repository permission level: Read
+{% hint style="info" %}
+Repository permission level: Read
+{% endhint %}
 
 Things applicants will be able to do:
 

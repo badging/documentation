@@ -5,20 +5,20 @@
 Four different kinds of roles exist in D&I Badging: applicants, reviewers, moderators, maintainers. Click the following tab bar to see the definition of each role.
 
 {% tabs %}
-{% tab title="Applicants" %}
-
+{% tab title="Applicant" %}
+An applicant is a person who initiates a badge submission and open an issue on GitHub.
 {% endtab %}
 
-{% tab title="Reviewers" %}
-
+{% tab title="Reviewer" %}
+A reviewer is a person who reviews the submission, complete the checklist and give feedback in an issue.
 {% endtab %}
 
-{% tab title="Moderators" %}
-
+{% tab title="Moderator" %}
+A moderator is a person who facilitates between the applicant and the reviewer within an issue.
 {% endtab %}
 
-{% tab title="Maintainers" %}
-
+{% tab title="Maintainer" %}
+A maintainer is a person who takes overall responsbilities within D&I badging project, making sure everything works regurlarly.
 {% endtab %}
 {% endtabs %}
 
@@ -26,13 +26,14 @@ Four different kinds of roles exist in D&I Badging: applicants, reviewers, moder
 
 | Repository Permission | Applicant | Reviewer | Maintainer | Moderator |
 | :--- | :--- | :--- | :--- | :--- |
-| Can create a CHAOSS Badging application | Y | N | N | N |
-| Can edit the Review Checklist | N | Y | N | N |
-| Merge PR | N | N | Y | N |
+| Create a CHAOSS Badging application | Y | N | N | N |
+| Edit the Review Checklist | N | Y | N | N |
 | Request reviews | N | N | N | Y |
 | Edit the opening PR comment | Y | N | N | N |
+| Generate the Badge | N | N | N | Y |
+| Close the issue | N | N | Y | Y |
 
 {% hint style="success" %}
-In each subsection, we will elaborate on responsibilities and GitHub permission of different kinds of roles, and provide information about the frequently asked questions.
+In each subsection, we will elaborate on responsibilities and GitHub permissions of different kinds of roles, and provide information about the frequently asked questions.
 {% endhint %}
 

@@ -21,9 +21,9 @@ Reviewers are encouraged to ask applicants for more information through an issue
 Ensure all the initial checks are marked before proceeding with Metric based checks. If the event is not qualified with all the initial checks, call the moderator team to end the review.
 
 * **The Event is about Open Source technologies and systems.** This is not always easy to understand without talking to the event team. In most cases, this can be explained by the event website in combination with the applicant's description. Ask the applicant if you need more information.
-* **The Event information is publicly available on a website.** Observe the event website to see whether the event information is public.
+* **The Event information is publicly available on a website.** Observe the event website to understand whether the event information is public.
 * **The Event Code of Conduct is publicly available.** Try to find the Event Code of Conduct on the event's website or other public places.
-* **The applicant is the organizer of the event.** The applicant must be involved in the planning and development of the event.
+* **The applicant is the organizer of the event.** The applicant must be involved in planning and developing the event.
 
 {% hint style="success" %}
 Use the website provided in the application to everyone's advantage! Most of the data you collect to make your decisions should come from the event website.
@@ -31,28 +31,28 @@ Use the website provided in the application to everyone's advantage! Most of the
 
 #### Speaker Demographics and Inclusivity
 
-* **Measuring demographics**: Ensure that the website clearly the process by which they measure and use their demographic data of speakers.
-* **Displaying demographics**: This should only be checked if the event openly displays data regarding their speaker demographics. This could be in a PR statement, press release, or otherwise, but it must be reasonably easy to find.
+* **Measuring demographics**: Ensure that the website clearly states the process by which they measure and use their demographic data of speakers.
+* **Displaying demographics**: This information could be in a PR statement, press release, or otherwise, but it must be easy to access.
 
 #### Attendee Demographics and inclusivity
 
-* **Measuring Demographics**: Ensure that the website clearly the process by which they measure and use their demographic data of attendees.
-* **Displaying demographics**: This could be in a PR statement, press release, or otherwise, but it must be reasonably easy to find.
-* **Attendee Inclusivity**: This should only be checked when the event possesses explicit measures to promote attendee inclusivity. Generally, an event should at least requests feedback from attendees, ask the applicant if you need more information.
+* **Measuring Demographics**: Ensure that the website clearly states the process by which they measure and use their demographic data of attendees.
+* **Displaying demographics**: This information could be in a PR statement, press release, or otherwise, but it must be easy to access.
+* **Attendee Inclusivity**: Ensure the event possesses explicit measures to promote attendee inclusivity. An event should at least requests feedback from attendees. Ask the applicant if you need more information.
 
-#### Code of Conduct at Event
+#### Code of Conduct at Event \(CoC\)
 
 *  **Findability:** Observe the event website to see whether the CoC is easy to find. 
-*  **Clarity:** Read the CoC, make sure in the CoC there are clear definitions of what kinds of behaviors should or should not be performed at the event.
-*  **Reporting venue:** Ensure that the event has a physical or online venue for all event participants to report violations of CoC, the information of reporting venue should be public on the event website or other places.
-*  **Support at Event:**  Read the CoC, make sure it contains information about possible methods to provide support to victims of inappropriate behavior.
-*  **Enforcement:** This should only be checked when there is a definite process exhibiting all participants the CoC and asking them to accept it.
+*  **Clarity:** Read the CoC, make sure the CoC provides clear definition of proper conduct at the event and behaviors that should not be tolerated.
+*  **Reporting venue:** Ensure that the event has a venue for all event participants to report violations of CoC. The information of reporting venue should be public on the event website or other places.
+*  **Support at Event:**  Read the CoC and ensure it contains information on possible methods to provide support to victims of inappropriate behavior.
+*  **Enforcement:** Ensure the event has a definite process to display the CoC and a clear request for them to accept it.
 
 #### Diversity Access tickets
 
-*  **Availability:** Ensure that the event provides one or more Diversity Access Tickets. 
-*  **Ticket allocation:** Allocating different kinds of tickets may always be a process that operates internally, try to find out the process based on the description provided by the applicant and ask for more information if you need.
-*  **Findability:** The information on diversity access tickets is not necessarily posted on the event website, it can also be on a ticketing system or other places, but this should be at least public and findable.
+* **Availability:** Ensure that the event provides one or more Diversity Access Tickets. 
+* **Ticket allocation:** Allocating different kinds of tickets may always be a process that operates internally, try to find out the process based on the description provided by the applicant and ask for more information if you need.
+* **Findability:** The information on diversity access tickets is not necessarily posted on the event website, it can also be on a ticketing system or other places, but this should be at least public and findable.
 
 ####  Family Friendliness
 
@@ -61,7 +61,7 @@ The Review Checklist for Virtual Event won't have this metric.
 {% endhint %}
 
 * **Availability:** Ensure that the event provides one or more services/facilities for families.
-* **Findability:** Observe the event website to see whether information regards to family friendly services provided at the event is easy to find.
+* **Findability:** Observe the event website to see whether information regarding family friendly services provided at the event is easy to find.
 
 
 
