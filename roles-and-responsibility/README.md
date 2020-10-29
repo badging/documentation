@@ -1,4 +1,4 @@
-# Roles and Responsibility
+# Badging Stakeholders
 
 ## Roles
 
@@ -6,7 +6,7 @@ Four different kinds of roles exist in D&I Badging: applicants, reviewers, moder
 
 {% tabs %}
 {% tab title="Applicant" %}
-An applicant is a person who initiates a badge submission and open an issue on GitHub.
+An applicant is a person who initiates a badge submission and opens an issue on GitHub.
 {% endtab %}
 
 {% tab title="Reviewer" %}
@@ -18,7 +18,7 @@ A moderator is a person who facilitates between the applicant and the reviewer w
 {% endtab %}
 
 {% tab title="Maintainer" %}
-A maintainer is a person who takes overall responsbilities within D&I badging project, making sure everything works regurlarly.
+A maintainer is a person who takes overall responsibilities within D&I badging project, making sure everything works regularly.
 {% endtab %}
 {% endtabs %}
 
@@ -29,9 +29,9 @@ A maintainer is a person who takes overall responsbilities within D&I badging pr
 | Create a CHAOSS Badging application | Y | N | N | N |
 | Edit the Review Checklist | N | Y | N | N |
 | Request reviews | N | N | N | Y |
-| Edit the opening PR comment | Y | N | N | N |
+| Edit the opening Issue comment | Y | N | N | N |
 | Generate the Badge | N | N | N | Y |
-| Close the issue | N | N | Y | Y |
+| Close the Issue | N | N | Y | Y |
 
 {% hint style="success" %}
 In each subsection, we will elaborate on responsibilities and GitHub permissions of different kinds of roles, and provide information about the frequently asked questions.

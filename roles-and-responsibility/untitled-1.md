@@ -33,7 +33,7 @@ Moderators are responsible for ensuring that reviewers and applicants understand
 `Q` What happens if a reviewer is not responding or providing a review?  
 `A` In this case, we use a week as our reference time. If the reviewer has been assigned for a week and has not provided their review or responded to requests, you can unassign them. At this point, you must also assign a new reviewer. You can use your judgement to request a reviewer that you haven't seen on any events recently, or someone that you know will be reliable.
 
-`Q` Your question can be added here!
+`Q` We are looking forward to more questions!
 
 ## References
 

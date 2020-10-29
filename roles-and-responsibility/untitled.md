@@ -2,7 +2,7 @@
 
 ## Responsibilities
 
-Completing the processing of a Badging application would be the work of a maintainer.
+The responsibility of a maintainer would be to ensure that the whole project is under control, and completing the processing of a Badging application. A maintainer will also maintain the reviewer team and responsible for the training of new reviewers.
 
 ## GitHub Permissions
 
@@ -12,7 +12,7 @@ Repository permission level: Maintain / Admin
 
 Things maintainers would be expected to do:
 
-* Assign reviewers, and add their usernames to `.github/reviewers.md`.
+* Assign reviewers, and add their GitHub handles to `.github/reviewers.md`.
 
 Things maintainers wouldn't be expected to do:
 
@@ -20,5 +20,8 @@ Things maintainers wouldn't be expected to do:
 
 ## FAQ
 
-`Q` What kind of commitment is maintaining for Event Badging?
+`Q` What kind of commitment is maintaining for Event Badging?  
+`A` Maintaining the project requires sufficient command of the Badging workflow and long-term connection to the community. We expect, at the highest load, for the project to require about 20 minutes every couple of days for each maintainer.  
+
+ `Q` We are looking forward to more questions!
 

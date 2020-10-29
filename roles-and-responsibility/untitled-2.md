@@ -24,5 +24,5 @@ Things reviewers won't be able to do:
 `Q` What kind of commitment is reviewing for Event Badging?  
 `A` We see a lot of variables affecting this time commitment, including our number of reviewers and number of applicants. We expect, at the highest load, for the project to require about 20 minutes every few days from each reviewer. At lowest, we'd expect 20 minutes or so every few weeks
 
-`Q` Your question can be added here!
+`Q` We are looking forward to more questions!
 
