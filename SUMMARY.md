@@ -18,7 +18,7 @@
 
 ---
 
-* [Badging Stakeholders](roles-and-responsibility/README.md)
+* [Badging Roles](roles-and-responsibility/README.md)
   * [Applicants](roles-and-responsibility/untitled-3.md)
   * [Reviewers](roles-and-responsibility/untitled-2.md)
   * [Moderators](roles-and-responsibility/untitled-1.md)
