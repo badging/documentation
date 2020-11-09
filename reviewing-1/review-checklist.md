@@ -6,24 +6,26 @@ This page contains information about going through the review process, especiall
 
 The review checklist provides a guideline for the reviewers to verify the event's alignment with CHAOSS Diversity and Inclusion best practices.
 
-Apart from providing viewpoints while reviewing, the checklist also plays the function of generating the badge state by calculating how many checkboxes are marked in combination with all reviewers of one submission.
+Apart from providing viewpoints while reviewing, the checklist also plays the function of generating the badge state by calculating how many checkboxes are marked. This calculation includes the metric checkboxes from all reviews on the application.
 
 The event review checklist for the CHAOSS Badging Project can be found [here](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/checklist.md).
 
 ### Working with the Review Checklist
 
-D&I Badging reviews are checklist-driven. A review checklist will be generated for each reviewer to work through when reviewing the submission. Reviewer tick the checkboxes which they think the event aligns with the criteria.  The review process completes when **the applicant is satisfied with the current badge status** or **the applicant will no longer provide information**.
+D&I Badging reviews are checklist-driven. A review checklist will be generated for each reviewer to work through when reviewing the submission. Reviewer tick the checkboxes which they think the event aligns with the criteria.  
 
-Reviewers are encouraged to ask applicants for more information through an issue comment.
+**The review process completes when** **the applicant is satisfied with the current badge status or the applicant will no longer provide information**. Reviewers are encouraged to ask applicants for more information through issue comments.
 
-#### **Initial Check**
+### **Initial Checks**
 
-Ensure all the initial checks are marked before proceeding with Metric based checks. If the event is not qualified with all the initial checks, call the moderator team to end the review.
+Below is an explanation of each initial check:
 
 * **The Event is about Open Source technologies and systems.** This is not always easy to understand without talking to the event team. In most cases, this can be explained by the event website in combination with the applicant's description. Ask the applicant if you need more information.
 * **The Event information is publicly available on a website.** Observe the event website to understand whether the event information is public.
 * **The Event Code of Conduct is publicly available.** Try to find the Event Code of Conduct on the event's website or other public places.
 * **The applicant is the organizer of the event.** The applicant must be involved in planning and developing the event.
+
+Ensure all the initial checks are marked before proceeding with Metric based checks. If the event does not qualify from the initial checks, thank the applicant for their time and connect with the moderator team to end the review.
 
 {% hint style="success" %}
 Use the website provided in the application to everyone's advantage! Most of the data you collect to make your decisions should come from the event website.

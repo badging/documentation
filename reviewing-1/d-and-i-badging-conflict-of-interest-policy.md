@@ -1,6 +1,6 @@
 # Conflict of Interest Policy
 
-### D&I Conflict of Interest Policy
+### CHAOSS D&I Badging Conflict of Interest Policy
 
 A conflict of interest in peer review arises when a situation where you, the reviewer, are unable to make a fair judgment. The CHAOSS D&I Badging Project aims to promote a transparent and impartial environment to evaluate Diversity and Inclusion, as well as consciously avoiding situations where conflicts of interest may appear. 
 

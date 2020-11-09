@@ -1,4 +1,4 @@
-# Apply for Virtual Event
+# Apply for a Virtual Event
 
 We make one distinction between virtual events and in-person events. The Virtual Event does not support the [Family Friendliness](https://chaoss.community/metric-family-friendliness/) metric because this is not currently a concern for virtual events.
 
@@ -9,7 +9,7 @@ We make one distinction between virtual events and in-person events. The Virtual
 ## Basic Information
 
 * **Event Name:** Use the most commonly mentioned and well-known name of the event.
-* **Link to the Event Website:** The link should be valid, publicly available on a website, and show the event information. We recommend providing the home-page link.
+* **Link to the Event Website:** The link should be valid, publicly available on a website, and it should show the event information. We recommend providing the home-page link.
 * **Provide verification that you are an event organizer:** Only the organizer is eligible to apply the badge on behalf of event participants. Please provide substantial proof to show you are the organizer of the event you are applying for. A link with your name displayed as an organizer on the event website is ideal.
 
 ## Initial Checks
@@ -76,7 +76,7 @@ In the Code of Conduct:
 
 _How are Diversity Access Tickets used to support diversity and inclusion for an event?_
 
-* **Availability:** How many \(different\) diversity access tickets are available?
+* **Availability:** How many different types of diversity access tickets are available?
 * **Ticket allocation:** How are diversity access tickets allocated?
 * **Findability:** Does the information about diversity access tickets posted on your event website?
 

@@ -6,11 +6,11 @@
 
 The Diversity and Inclusion Badging program uses a peer-review system to encourage projects and events to obtain badges. It aims to increase understanding of the open-source project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds.
 
-The program is affiliated with the CHAOSS project and a proud initiative of CHAOSS. Most of the work of the Badging Program is closely associated with the CHAOSS D&I working group. In addition, CHAOSS is a Linux Foundation project
+The program is affiliated with the CHAOSS project and a proud initiative of CHAOSS. Most of the work of the Badging Program is closely associated with the CHAOSS D&I working group.
 
 ![](.gitbook/assets/image%20%288%29.png)
 
-For more information about CHAOSS, please visit [chaoss.community](https://chaoss.community/)
+CHAOSS is a Linux Foundation project. For more information about CHAOSS, please visit the website at [chaoss.community](https://chaoss.community/)
 
 ## Problem Statement
 
@@ -40,13 +40,13 @@ In order to submit an application for a project, review the following documents:
 
 * [Applicant role](https://github.com/badging/diversity-and-inclusion/blob/master/roles/applicant.md) - This document describes the GitHub permissions and the responsibilities of a CHAOSS Badging Applicant.
 * [Event submission requirements](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/requirements.md) - Describes the minimum requirements for an Event to be eligible for participation in CHAOSS Badging process.
-* [Event submission guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) - Guidelines and steps on how an Event can gain a badge under the CHAOSS Badging program.
+* [Event submission guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) - Guidelines and steps on how an Event can acquire a badge under the CHAOSS Badging program.
 
 ### **Badge Levels**
 
 CHAOSS Badges are assigned according to how the Reviewers mark out the [review checklist](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/checklist.md) according to the information initially filled in by the Applicant.
 
-The percentages are calculated excluding the initial checks, based on the average of checklists of at least two reviewers.
+The badge percentages are calculated from the average of checklists of at least two reviewers. This percentage excludes the initial checks for .
 
 | Level | Badge | Percentage of Requirements Met |
 | :--- | :--- | :--- |
@@ -57,7 +57,9 @@ The percentages are calculated excluding the initial checks, based on the averag
 
 ### Metrics For Event Badging
 
-The metrics used in the Badging submission process are defined by [CHAOSS D&I Working Group](https://github.com/chaoss/wg-diversity-inclusion/). Metrics used for event badge come from the [Event Diversity ](https://chaoss.community/metrics/#user-content-focus-area---event-diversity)focusing area. Here is the list of the five metrics that belong to Event Diversity:
+The metrics used in the Badging submission process are defined by [CHAOSS D&I Working Group](https://github.com/chaoss/wg-diversity-inclusion/). Metrics used for event badge come from the [Event Diversity ](https://chaoss.community/metrics/#user-content-focus-area---event-diversity)focusing area. 
+
+These are the five metrics that belong to Event Diversity:
 
 | Name | Question |
 | :--- | :--- |
@@ -86,7 +88,7 @@ To become a reviewer, please fill out the [Reviewer Application Google Form](htt
 
 ## Work to Date
 
-The CHAOSS Badging Project is now in the first stages of the first release. We are continuously recruiting reviewers and applicants.
+The CHAOSS Badging Project is now in the first release. We are continuously recruiting reviewers and applicants.
 
 ## Contributors
 

@@ -1,4 +1,4 @@
-# Maintainers
+# Maintainer
 
 ## Responsibilities
 
@@ -7,21 +7,26 @@ The responsibility of a maintainer would be to ensure that the whole project is 
 ## GitHub Permissions
 
 {% hint style="info" %}
-Repository permission level: Maintain / Admin
+Repository permission level: Maintain / Administrate
 {% endhint %}
 
-Things maintainers would be expected to do:
+A maintainer will expected to:
 
-* Assign reviewers, and add their GitHub handles to `.github/reviewers.md`.
+* Assign reviewers and add their GitHub handles to `.github/reviewers.md`.
 
-Things maintainers wouldn't be expected to do:
+Maintainers won't be expected to:
 
 * Edit the Application, Review Checklist, and comments directly.
 
 ## FAQ
 
-`Q` What kind of commitment is maintaining for Event Badging?  
+`Q` What kind of commitment is required to maintain for Event Badging?  
 `A` Maintaining the project requires sufficient command of the Badging workflow and long-term connection to the community. We expect, at the highest load, for the project to require about 20 minutes every couple of days for each maintainer.  
 
- `Q` We are looking forward to more questions!
+`Q` What are the sources of maintainers for  CHAOSS D&I Badging Project?  
+`A` Maintainers of D&I badging come from...
+
+
+
+ `Q` We are looking forward to answering more questions!
 

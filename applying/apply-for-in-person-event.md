@@ -2,7 +2,7 @@
 description: Describe the In-Person Event Badge Submission Form
 ---
 
-# Apply for In-Person Event
+# Apply for an In-Person Event
 
 The D&I badging application is submitted through a web form to provide information and measurements on how an event achieves diversity and inclusion practices. All initial judgments from reviewers are made according to the form, so please do your best with it, make sure to fill out all the fields.
 
@@ -13,7 +13,7 @@ The D&I badging application is submitted through a web form to provide informati
 ## Basic Information
 
 * **Event Name:** Use the most commonly mentioned and well-known name of the event.
-* **Link to the Event Website:** The link should be valid, publicly available on a website, and show the event information. We recommend providing the home-page link.
+* **Link to the Event Website:** The link should be valid, publicly available on a website, and it should show the event information. We recommend providing the home-page link.
 * **Provide verification that you are an event organizer:** Only the organizer is eligible to apply the badge on behalf of event participants. Please provide substantial proof showing you are the organizer of the event you are applying for. A link with your name displayed as an organizer on the event website is ideal.
 
 ## Initial Checks
@@ -81,7 +81,7 @@ In the Code of Conduct:
 
 _How are Diversity Access Tickets used to support diversity and inclusion for an event?_
 
-* **Availability:** How many \(different\) diversity access tickets are available?
+* **Availability:** How many types of diversity access tickets are available?
 * **Ticket allocation:** How are those diversity access tickets allocated?
 * **Findability:** Does the information about diversity access tickets posted on your event website or some other public venues?
 
