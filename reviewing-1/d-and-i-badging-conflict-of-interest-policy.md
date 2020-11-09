@@ -4,7 +4,7 @@
 
 A conflict of interest in peer review arises when a situation where you, the reviewer, are unable to make a fair judgment. The CHAOSS D&I Badging Project aims to promote a transparent and impartial environment to evaluate Diversity and Inclusion, as well as consciously avoiding situations where conflicts of interest may appear. 
 
-As a reviewer, Conflicts of Interest for **event submission reviews** present or previous associations with any event organizers and the event committee of a submission. The following situations are considered conflicts and should be avoided:
+As a reviewer, Conflicts of Interest for **event submission reviews** are your present or previous associations with any event organizers and the event committee of a submission. The following situations are considered conflicts and should be avoided:
 
 * Organizing for the submitted event.
 * Having a personal relationship \(e.g.family, close friend\) with the event organizer\(s\).
