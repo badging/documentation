@@ -24,9 +24,7 @@ Maintainers won't be expected to:
 `A` Maintaining the project requires sufficient command of the Badging workflow and long-term connection to the community. We expect, at the highest load, for the project to require about 20 minutes every couple of days for each maintainer.  
 
 `Q` What are the sources of maintainers for  CHAOSS D&I Badging Project?  
-`A` Maintainers of D&I badging come from...
-
-
+`A` Maintainers are long-standing members of the CHAOSS community that become core-contributors to the D&I Badging Project. To become a maintainer, a contributor needs to show constant active to the project.
 
  `Q` We are looking forward to answering more questions!
 
