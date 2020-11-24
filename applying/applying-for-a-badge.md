@@ -34,7 +34,7 @@ By clicking the button you will be navigated to [the CHAOSS Event Badging submis
 
 **The Submission Workflow**
 
-Please fill out the web form to apply for a badge. Provide as much information as you want, and click "Submit".
+Please fill out the webform to apply for a badge. Provide as much information as you want, and click "Submit".
 
 ![](../.gitbook/assets/1.png)
 
@@ -56,7 +56,7 @@ Once you are satisfied with the result, you will have one final task. Connect wi
 
 **Acquire the Badge**
 
-The review is finalized when a moderator confirms that the application and checklists align with everything. They will close the issue with the moderator-only  `/end` command. Two badge links will be generated as an issue comment at the same time the issue closes. 
+The review is finalized when a moderator confirms that the application and checklists align with everything. They will close the issue with the **moderator-only**  `/end` command. Two badge links will be generated as an issue comment at the same time the issue closes. 
 
 Here is an example of a newly granted badge:
 
