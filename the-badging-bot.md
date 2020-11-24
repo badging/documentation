@@ -25,7 +25,7 @@ This is what happened where the`@badging-bot` is triggered:
   * greet the applicant and provide guiding information \([see example](https://github.com/badging/event-diversity-and-inclusion/issues/46#issuecomment-674938374)\)
   * assign reviewers according to `reviewers.md`
   * open a checklist for each assigned reviewer \([see example](https://github.com/badging/event-diversity-and-inclusion/issues/46#issuecomment-674938396)\)
-* **A command is typed down in a review issue comment.** When someone creates an issue comment with a command, the bot will be triggered and respond in a new comment. 
+* **A command is typed in a review issue comment.** When someone creates an issue comment with a command, the bot will be triggered and respond in a new comment. 
 
 ### Commands
 
