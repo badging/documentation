@@ -1,4 +1,4 @@
-# Overview of the D&I Badging
+# Overview of D&I Badging
 
 ## About
 

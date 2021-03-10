@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview of the D&I Badging](README.md)
+* [Overview of D&I Badging](README.md)
 * [How to contribute](how-to-contribute.md)
 
 ## Applying
